@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="fit">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/fit" />
+      <root url="file://$PROJECT_DIR$/lib/fit" />
+      <root url="jar://E:/cobertura-1.9.4.1-bin/cobertura-1.9.4.1/cobertura.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/fit" />
+      <root url="file://$PROJECT_DIR$/lib/fit" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/fit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/fit" recursive="false" type="SOURCES" />
+  </library>
+</component>
